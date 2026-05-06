@@ -1,74 +1,69 @@
-### 🌊 THE CAPTAIN'S LOG
-**A First-Year Electronics and Instrumentation Engineering student at FISAT.**  
-*Obsessed with the mystery of circuits, tinkering with unknown components, and the physics of Black Holes[cite: 1].*
+<div align="center">
+  
+# 🌊 THE GREAT TECH VOYAGE
+### ⚓ CAPTAIN NIKHIL PRAKASH ⚓
+**"Inherited Will, The Destiny of the Age, and The Dreams of the People."**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&center=true&vCenter=true&width=500&lines=EIE+Undergrad+@+FISAT;IoT+and+Embedded+Systems+Expert;Devil+Fruit+User:+Circuit-Circuit+Fruit;Future+King+of+Automation!)](https://git.io/typing-svg)
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBlOWE5YjFmMjI0ZDRmNGI5YjI5ZWYzYjYyZDMzZDYyZDMzZDYyZDMmY3Q9Zw/12K8E4TrIsWE8/giphy.gif" width="600" />
+| 🍖 BOUNTY: 8.47 CGPA | 🧭 LOG POSE: Kerala, India |
+| :---: | :---: |
 
 ---
 
-## ⚡ THE HAKI OF AN ENGINEER (SKILLS)
-| STRAW HAT ROLE | ABILITY (TECH STACK) |
-| :--- | :--- |
-| ⚔️ **ARMAMENT HAKI** | **Python**, **HTML**[cite: 2] |
-| 👁️ **OBSERVATION HAKI** | **UI/UX Design** with **Figma**[cite: 2] |
-| 🛠️ **SHIPWRIGHT** | **Basic Electronics**, **Instrumentation Fundamentals**[cite: 2] |
-| 🌀 **DEVIL FRUIT** | **ESP32**, **Arduino**, **IoT-based systems**[cite: 2] |
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmJmN0PWc/DSxKEGOvaOTlS/giphy.gif" width="100%" />
 
----
+</div>
 
-## 🧭 THE GRAND LINE (PROJECTS & ACHIEVEMENTS)
-
-### 💡 [The All-Blue] Smart IoT Night Light
-* Designed an **ESP-based** smart night light system to assist elderly users with automated lighting and improved safety[cite: 2].
-
-### ☀️ [The Sunny] Solar Coconut Dryer
-* Developing a solar-powered drying system to support medium-scale farmers against Kerala's volatile climate.
-
-### 🌌 [The Void Century] Black Hole Scholar
-* Secured **1st Place** at the sub-district science seminar for an in-depth presentation on the mysteries of space[cite: 1].
-
----
-
-## 🤝 ALLIES & FACTIONS (EXPERIENCE)
-* **ISTE & IDEA Member:** Navigating the technical wings of FISAT (2025-2029).
-* **IDEA Design & Media Wing:** Crafting the visual aesthetic of the crew[cite: 1].
-* **NSS Class Representative:** Leading community drives and volunteering at GHSS Pattambi.
-
----
-
-## 📊 POWER LEVEL (LIVE TRACKER)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&border_radius=10" alt="Languages" />
-</p>
-
----
-
-## 📞 DEN DEN MUSHI (CONTACT)
-<p align="center">
-<a href="https://www.linkedin.com/in/nikhilprakash-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nikhilprakash.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Log%20Pose%20Visitors&color=gold&style=flat-square
-```markdown
+## 🧬 DEVIL FRUIT ABILITIES (Technical Haki)
 <div align="center">
 
-# 🏴‍☠️ THE GREAT TECH VOYAGE 🏴‍☠️
-## ⚓ CAPTAIN NIKHIL PRAKASH ⚓
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-```ascii
-      _   _ _____ _   _ _____ _      
-     | \ | |_   _| | | |_   _| |     
-     |  \| | | | | |_| | | | | |     
-     | . ` | | | |  _  | | | | |     
-     | |\  |_| |_| | | |_| |_| |____ 
-     \_| \_/_____|_| |_/_____|______/
-                                     
-   EIE UNDERGRAD @ FISAT '29 | PATTAMBI
+</div>
+
+---
+
+## 🗺️ THE GRAND LINE (Major Projects)[cite: 2]
+
+### 💡 [The All-Blue] Smart IoT Night Light
+*   **Mission:** Assisting the elderly with automated lighting systems using ESP32.[cite: 2]
+*   **Tech:** IoT Sensors & Embedded Systems.[cite: 2]
+
+### ☀️ [The Sunny] Solar Coconut Dryer
+*   **Mission:** Empowering medium-scale farmers with sustainable energy.[cite: 2]
+*   **Tech:** Solar Power & Instrumentation.[cite: 2]
+
+---
+
+## 📜 THE VOID CENTURY (Experience & Volunteering)
+*   **NSS Class Representative:** Leading the crew at GHSS Pattambi.[cite: 2]
+*   **IDEA Media Wing:** Designing the aesthetics of the New World at FISAT.[cite: 1]
+*   **Black Hole Scholar:** Sub-district Science Seminar winner—mastering the gravity of space.[cite: 1]
+
+---
+
+## 📮 CONTACT THE CAPTAIN (Den Den Mushi)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilprakash-dev/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilprakash.dev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Nikhil's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight" alt="Streak Stats" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20Views&color=gold&style=flat" />
+</p>
