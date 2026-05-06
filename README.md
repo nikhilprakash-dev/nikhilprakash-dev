@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilprakash-dev&show_icons=true&theme=tokyonight" alt="Nikhil's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilprakash-dev&show_icons=true&theme=tokyo-night" alt="Nikhil's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilprakash-dev&theme=tokyonight" alt="Streak Stats" />
 </div>
 
