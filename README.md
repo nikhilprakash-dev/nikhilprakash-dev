@@ -60,10 +60,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Nikhil's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilprakash-dev&show_icons=true&theme=tokyonight" alt="Nikhil's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilprakash-dev&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20Views&color=gold&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilprakash-dev&label=Profile%20Views&color=gold&style=flat" />
 </p>
