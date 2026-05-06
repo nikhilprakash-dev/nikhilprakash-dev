@@ -65,5 +65,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilprakash-dev&label=Profile%20Views&color=gold&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilprakash-dev&label=Profile%20Views&color=yellow&style=flat" />
 </p>
